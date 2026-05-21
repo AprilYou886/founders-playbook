@@ -75,6 +75,7 @@ founders-playbook/
 
 ```text
 .
+├── LICENSE
 ├── README.md
 └── SKILL.md
 ```
@@ -106,10 +107,6 @@ founders-playbook/
 
 ## License
 
-请在开源前根据你的发布意图补充许可证文件，例如 `MIT`、`Apache-2.0` 或 `CC BY-SA 4.0`。
+本项目使用 [MIT License](./LICENSE) 开源。
 
-如果你不确定选哪个，通常：
-
-- 希望别人自由使用和修改代码类内容：选 `MIT`
-- 希望保留署名并适合知识内容传播：选 `CC BY-SA 4.0`
-- 希望用于更正式的软件项目：选 `Apache-2.0`
+你可以自由使用、复制、修改、分发和再授权本项目内容，但需要保留原始版权声明和许可证文本。
